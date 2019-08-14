@@ -1,0 +1,21 @@
+{
+  "name": "crossword-puzzle-solver",
+  "version": "1.0.0",
+  "description": "Inspired by crossword scratchers, you input the letters you scratch, you input the words on the scratcher, and it shows the revealed letters and words",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crossword",
+    "puzzle"
+  ],
+  "bin": {
+    "crossword": "index.js"
+  },
+  "author": "Sean Dittmar",
+  "license": "MIT",
+  "dependencies": {
+    "questions": "0.0.6"
+  }
+}
