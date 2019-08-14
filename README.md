@@ -5,7 +5,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-> This is a testing project to test the standard-readme yo scaffolding tool.
+> Inspired by crossword scratchers, you input the letters you scratch, you input the words on the scratcher, and it shows the revealed letters and words
 
 ## Table of Contents
 
